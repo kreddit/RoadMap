@@ -39,10 +39,10 @@ Authentications:
 
 Stat Tracking:
  - Games
- - - Time
- - - Level
- - - Users / Levels // Maps Interacted with
- - - - Performance stats & Correlations
+  - Time
+  - Level
+  - Users / Levels // Maps Interacted with
+    - Performance stats & Correlations
  - 
 
 UX / UI
