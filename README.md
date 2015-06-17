@@ -45,6 +45,18 @@ Stat Tracking:
  - - - Performance stats & Correlations
  - 
 
+UX / UI
+ - "Badges" "points / Kreddits"
+ - Topic Moderator
+ - Types of Contributions
+ - Private Sharing / Profile Control
+ - Identity Management
+ 
+Contract / Partnership / Job Sourcing
+ - Introductions
+ - Secured Contracts NDA's
+ - Recorded Conversations & Notations
+
 Code Tracking:
  *- Initial Commits*
  - - Issues / Awareness / Bugs / Feature Requests
@@ -111,6 +123,16 @@ Statistical Neural Net AI
  - Front/Back-end performance Code Review & Projections
  - - A/B/n testing
  - Programming contributions & revisions
+ - 
+ 
+Integrations:
+ - Slack
+ - Email
+ - Skype
+ - Screenhero
+ - IBM Watson / etc...
+ - Wit
+ - Chat
 
 Production Environment:
  - {Another Platform - Kredd.it Integration - Secured Portable OS User Assignment}
