@@ -1,25 +1,24 @@
 # RoadMap
-Performance based Attribution crediting, weighting, cross reference system.
+### Performance based Attribution crediting, weighting, cross reference system.
 --
 
-Topic Specific Granted Access level crowd source attribution system.
+#### Topic Specific Granted Access level crowd source attribution system.
 
-Target Goal:
-Identify sources, dissemination, and congruence of media concepts & contribution to knowledge refinement & curation.
+## Target Goal:
+##### Identify sources, dissemination, and congruence of media concepts & contribution to knowledge refinement & curation.
 
-Deployment via Browser Extensions & Controlled Environment Access.
+### Deployment via Browser Extensions & Controlled Environment Access.
 
-Weighting base: cross reference user data points on genres & hierarchies of contribution types.
+## Weighting base: cross reference user data points on genres & hierarchies of contribution types.
 
+# Areas to build:
 
-Areas to build:
-
-Kredd.it Keys:
+# Kredd.it Keys:
  - 'Public' / 'Group' / 'Private' - User Key System
  - Private Network Level Granted 'Repository' Access / 
  - Group / Team Formations
 
-Authentications:
+# Authentications:
  - OAuth
   - Google, Yahoo, 
  - GitHub
@@ -34,10 +33,11 @@ Authentications:
  - CodeWars
  - KhanAcademy
  - Kaggle
+ - NodeSchool
  - {to be finished filling in}
  - Video Game 'Hubs'
 
-Stat Tracking:
+# Stat Tracking:
  - Games
   - Time
   - Level
@@ -45,19 +45,19 @@ Stat Tracking:
     - Performance stats & Correlations
  - 
 
-UX / UI
+# UX / UI
  - "Badges" "points / Kreddits"
  - Topic Moderator
  - Types of Contributions
  - Private Sharing / Profile Control
  - Identity Management
  
-Contract / Partnership / Job Sourcing
+# Contract / Partnership / Job Sourcing
  - Introductions
  - Secured Contracts NDA's
  - Recorded Conversations & Notations
 
-Code Tracking:
+# Code Tracking:
  *- Initial Commits*
  - - Issues / Awareness / Bugs / Feature Requests
  - - - Comments
@@ -72,20 +72,20 @@ Code Tracking:
  - - User Experience
  - - 
 
-Wikipedia:
+# Wikipedia:
  - Contributions
  - Edits
  - Topics of Knowledge
 
-WebMaps:
+# WebMaps:
  - Map Research Travels on Web
  - - "Mind-Map" interface
 
-Text:
+# Text:
  - PDF
  - HTML texts
 
-Tools:
+# Tools:
  - Confidence Ratings
  - Taxonomy Creation {crowd}
  - Notation
@@ -97,25 +97,25 @@ Tools:
  - - - eg: Aggregate Research Publication tables on [genetic] studies
  - - - - Cross-Correlate data
 
-Notations:
+# Notations:
  - PDF's
  - Webpages
  - Video
  - Audio
 
-Dissemination of Media Tracking:
+# Dissemination of Media Tracking:
  - Embedded Picture [media] Crypto
 
-User Distributed Computing, DB, SHA+ Key System
+# User Distributed Computing, DB, SHA+ Key System
 
-Visual Interfaces_dataHistory:
+# Visual Interfaces_dataHistory:
  - Mondrial _heatmaps_ {
  - Orbs & Taxonomy Trees
  - - Weighted by color & density
  - Rising Bars {see drawings}
  - WebMap + Weighting
 
-Statistical Neural Net AI
+# Statistical Neural Net AI
  - User Introductions
  - - Semantics & Action correlations
  - Topic Introductions
@@ -125,7 +125,7 @@ Statistical Neural Net AI
  - Programming contributions & revisions
  - 
  
-Integrations:
+# Integrations:
  - Slack
  - Email
  - Skype
@@ -133,19 +133,31 @@ Integrations:
  - IBM Watson / etc...
  - Wit
  - Chat
+ - StackExchange / StackOverflow
+ - GitHub
+ - Quora
+ - IRC | FreeNode | mIRC
+ - BaseCamp
+ - - Other Collaborative & Knowledge Sharing sites
+ - WikiPedia
+ - Gitter
 
-Production Environment:
+# Production Environment:
  - {Another Platform - Kredd.it Integration - Secured Portable OS User Assignment}
  - Secure Virtual Environment
 
-Open-Source Data Initiatives:
+# Open-Source Data Initiatives:
  - Journalism {already in play}
  - CEDAR
  - etc...
 -- Source READ All
  -- WRITE Permission-level Specific
 
-Inspirations:
+
+
+# Inspirations:
 Quirky
 {now in production Assembly open-source}
 http://bigdata.stanford.edu/agenda.html
+..
+Competition has entered the arena... - Colony.io
